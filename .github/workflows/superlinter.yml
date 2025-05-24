@@ -7,8 +7,8 @@ jobs:
     name: Lint code base
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: 24f1000015@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
 
       - name: Run Super-Linter
         uses: github/super-linter@v4
